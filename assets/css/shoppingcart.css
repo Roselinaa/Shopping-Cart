@@ -1,0 +1,48 @@
+button{
+    color: indigo;
+}
+body{
+    color: indigo;
+    background-color:rgba(143, 106, 128, 0.473);
+}
+.K{
+    width: 45px;
+}
+.all{
+    margin: center;
+    display: flex;
+    align-content: center;
+}
+.F{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.A{
+    background-color: indigo;
+    width: 100%;
+    height: 15px;
+}
+.B{ 
+    margin-left: 50%;
+}
+.C{
+    margin-left: 50%;;
+}
+.D{
+    margin-left: 50%;
+}
+.E{
+    margin-left: 50%;
+}
+.L{
+    margin-left: 70%;
+}
+.H{
+    font-size: 40px;
+}
+.Quack{
+    background-color: orchid;
+}
+.Girl{
+    background-color: rosybrown;
+}
